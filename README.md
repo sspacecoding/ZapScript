@@ -4,7 +4,7 @@ Este repositório contém código para enviar mensagens para seus amigos ou grup
 ## ✌️ Utilização
 Siga as instruções abaixo para enviar o roteiro para o WhatsApp:
 
-Abra o arquivo SendScript.js neste repositório.
+Abra o arquivo [SendScript.js](https://github.com/sspacecoding/ZapScript/blob/main/SendScript.js) neste repositório.
 
 Copie todo o conteúdo do arquivo. Tu podes fazer isso clicando em "Raw", em seguida, pressionando Ctrl + A para selecionar todo o texto e Ctrl + C para copiá-lo.
 
